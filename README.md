@@ -1,4 +1,4 @@
-# bimcvexample
+# BimCurriculum: Ejemplo Integracion
 
 Funcionamiento Integración de autenticación externa con el api de bimcv.
 
